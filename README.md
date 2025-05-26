@@ -1,3 +1,3 @@
-# del_word_creater
+# rel_word_creater
 好像是调用有道获取派生词？
 几百年前的东西了，传个仓库备份下
